@@ -46,3 +46,5 @@ gem 'jekyll-sitemap'
 gem "webrick", "~> 1.8"
 
 gem "csv", "~> 3.2"
+
+gem "faraday-retry", "~> 2.2"
